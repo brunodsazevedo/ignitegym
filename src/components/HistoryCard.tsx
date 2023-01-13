@@ -15,7 +15,7 @@ export function HistoryCard({}: Props) {
       justifyContent="space-between"
     >
       <VStack mr={5} flex={1}>
-        <Heading color="white" fontSize="md" textTransform="capitalize">
+        <Heading fontFamily="heading" color="white" fontSize="md" textTransform="capitalize">
           Costas
         </Heading>
 
